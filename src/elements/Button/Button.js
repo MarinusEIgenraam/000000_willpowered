@@ -34,3 +34,5 @@ const Button = ({children, type, onClick, buttonStyle, buttonSize, disabled}) =>
 };
 
 export default Button;
+
+// thanks to: https://www.youtube.com/watch?v=JfNjGLGaxR4&ab_channel=Skillthrive
